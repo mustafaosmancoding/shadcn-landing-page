@@ -66,7 +66,7 @@ export const Services = () => {
         </div>
 
         <img
-          src="src/assets/image0.jpeg"
+          src="https://raw.githubusercontent.com/mustafaosmancoding/shadcn-landing-page/refs/heads/main/src/assets/image0.jpeg"
           className="w-[300px] md:w-[500px] lg:w-[600px] object-contain"
           alt="About services"
         />
