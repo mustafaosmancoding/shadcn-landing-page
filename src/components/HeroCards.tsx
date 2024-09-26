@@ -28,12 +28,11 @@ export const HeroCards = () => {
           </Avatar>
 
           <div className="flex flex-col">
-            <CardTitle className="text-lg">John Doe React</CardTitle>
-            <CardDescription>@john_doe</CardDescription>
+            <CardTitle className="text-lg">SRA Client Reconciliation</CardTitle>
           </div>
         </CardHeader>
 
-        <CardContent>This landing page is awesome!</CardContent>
+        <CardContent>Have a three-way SRA compliant reconciliation completed.</CardContent>
       </Card>
 
       {/* Team */}

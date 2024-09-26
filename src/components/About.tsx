@@ -1,4 +1,4 @@
-import { Statistics } from "./Statistics";
+
 import pilot from "../assets/pilot.png";
 
 export const About = () => {
@@ -20,18 +20,24 @@ export const About = () => {
                 <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
                   About{" "}
                 </span>
-                Company
+                Bank Reconciliation
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit
-                amet, consectetur adipiscing elit.
+                I want to give you business owners confidence 
+                when it comes to handling your books. Instead of
+                completing a course on bookkeeping - which can be
+                overwhelming if you do not have
+                a finance background. The best way for you to understand your
+                books is to start with a bank reconciliation. 
+                This will be the most important thing you do
+                for your business. It will all start with me
+                completing the current bank reconciliation for your 
+                business.
+
               </p>
             </div>
 
-            <Statistics />
+            
           </div>
         </div>
       </div>
