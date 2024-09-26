@@ -28,46 +28,40 @@ const pricingList: PricingProps[] = [
   {
     title: "Free",
     popular: 0,
-    price: 0,
+    price: 0.00,
     description:
-      "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
-    buttonText: "Get Started",
+      "20 minute free consultation.",
+    buttonText: "m.adde.osman@gmail.com",
     benefitList: [
-      "1 Team member",
-      "2 GB Storage",
-      "Upto 4 pages",
-      "Community support",
-      "lorem ipsum dolor",
+      "20 minute free consultaion",
     ],
   },
   {
-    title: "Premium",
+    title: "Office account reconciliation and clean up",
     popular: 1,
-    price: 5,
+    price: 499.00,
     description:
-      "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
-    buttonText: "Start Free Trial",
+      "£250.00 retainer / to bring the office account reconciliation upto date",
+    buttonText: "m.adde.osman@gmail.com",
     benefitList: [
-      "4 Team member",
-      "4 GB Storage",
-      "Upto 6 pages",
-      "Priority support",
-      "lorem ipsum dolor",
+      "Extend to 1 Year worth of reconciliations",
+      "Discussion of the reconciliation process and what can be done to improve it",
+      "A system developments for consistant interval reconciliations",
+      "Training to staff to continue reconciliations",
     ],
   },
   {
-    title: "Enterprise",
+    title: "Legal three-way client account reconciliation and clean up",
     popular: 0,
-    price: 40,
+    price: 999.00,
     description:
-      "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
-    buttonText: "Contact US",
+      "500.00 retainer / To bring the client account reconciliation up to date.",
+    buttonText: "m.adde.osman@gmail.com",
     benefitList: [
-      "10 Team member",
-      "8 GB Storage",
-      "Upto 10 pages",
-      "Priority support",
-      "lorem ipsum dolor",
+      "Extend to 1 Year worth of reconciliations",
+      "Discussion of the reconciliation process and what can be done to improve it",
+      "A system developments for consistant interval reconciliations",
+      "Training to staff to continue reconciliations",
     ],
   },
 ];
@@ -79,16 +73,15 @@ export const Pricing = () => {
       className="container py-24 sm:py-32"
     >
       <h2 className="text-3xl md:text-4xl font-bold text-center">
-        Get
+        
         <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
           {" "}
-          Unlimited{" "}
+          Packages{" "}
         </span>
-        Access
+        
       </h2>
       <h3 className="text-xl text-center text-muted-foreground pt-4 pb-8">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias
-        reiciendis.
+        Email me at m.adde.osman@gmail.com to set a more tailored package over a video call
       </h3>
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {pricingList.map((pricing: PricingProps) => (
@@ -108,13 +101,13 @@ export const Pricing = () => {
                     variant="secondary"
                     className="text-sm text-primary"
                   >
-                    Most popular
+                  
                   </Badge>
                 ) : null}
               </CardTitle>
               <div>
-                <span className="text-3xl font-bold">${pricing.price}</span>
-                <span className="text-muted-foreground"> /month</span>
+                <span className="text-3xl font-bold">£{pricing.price}</span>
+                <span className="text-muted-foreground"></span>
               </div>
 
               <CardDescription>{pricing.description}</CardDescription>

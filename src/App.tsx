@@ -1,8 +1,12 @@
 import { About } from "./components/About";
+import { Bishopsgatelaw } from "./components/Bishopsgatelaw";
+import { Lawcentral } from "./components/Lawcentral";
+import { Ajlo } from "./components/Ajlo";
+import { KBM } from "./components/KBM";
+import { Barclays } from "./components/Barclays";
 import { FAQ } from "./components/FAQ";
 import { Footer } from "./components/Footer";
 import { Hero } from "./components/Hero";
-import { HowItWorks } from "./components/HowItWorks";
 import { Navbar } from "./components/Navbar";
 import { Pricing } from "./components/Pricing";
 import { ScrollToTop } from "./components/ScrollToTop";
@@ -17,7 +21,11 @@ function App() {
       <Hero />
       <Sponsors />
       <About />
-      <HowItWorks />
+      <Bishopsgatelaw />
+      <Lawcentral />
+      <Ajlo />
+      <KBM />
+      <Barclays />
       <Services />
       <Pricing />
       <FAQ />

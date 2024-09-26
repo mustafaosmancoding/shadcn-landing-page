@@ -29,7 +29,7 @@ export const Footer = () => {
             </a>
           </div>
 
-          <div>
+        <div>
             
           </div>
 
@@ -39,8 +39,76 @@ export const Footer = () => {
         </div>
 
         <div className="flex flex-col gap-2">
-          <h3 className="font-bold text-lg"></h3>
+        <h3 className="font-bold text-lg">Contact Hours</h3>
+        <h3 className="font-bold text-lg"></h3>
           <div>
+          <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Monday : 6-8 pm
+            </a>
+          <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Tuesday : 6-8 pm
+            </a>
+            </div>
+
+            <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Wednesday : 6-8 pm
+            </a>
+            </div>
+
+            <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Thursday : 6-8 pm
+            </a>
+            </div>
+
+            <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Friday : 6-8 pm
+            </a>
+            </div>
+
+            <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Saturday : 6-8 pm
+            </a>
+            </div>
+
+            <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Sunday : 6-8 pm
+            </a>
+            </div>
+            
             
           </div>
 

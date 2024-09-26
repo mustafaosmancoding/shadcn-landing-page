@@ -25,11 +25,13 @@ export const LogoIcon = () => {
 
 export const MedalIcon = () => {
   return (
+    
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 128 128"
       className="w-14 fill-primary"
-    >
+    > 
+     
       <title>Free Icons</title>
       <g
         id="Layer_8"

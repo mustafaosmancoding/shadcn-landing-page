@@ -1,6 +1,3 @@
-
-import pilot from "../assets/pilot.png";
-
 export const About = () => {
   return (
     <section
@@ -10,7 +7,7 @@ export const About = () => {
       <div className="bg-muted/50 border rounded-lg py-12">
         <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
           <img
-            src={pilot}
+            src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_3c7a9033c0b17d66b498c13c9fef0a10/leap.png"
             alt=""
             className="w-[300px] object-contain rounded-lg"
           />
