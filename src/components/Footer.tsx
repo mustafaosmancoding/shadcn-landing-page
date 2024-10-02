@@ -28,6 +28,10 @@ export const Footer = () => {
               m.adde.osman@gmail.com
             </a>
 
+            
+
+          </div>
+          <div>
             <a
               rel="noreferrer noopener"
               href="#"
@@ -35,6 +39,8 @@ export const Footer = () => {
             >
               +44 7553 971171
             </a>
+
+            
 
           </div>
 
@@ -56,7 +62,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Monday : 6-8 pm
+              Monday: 10am - 6pm
             </a>
           <div>
             <a
@@ -64,7 +70,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Tuesday : 10 am - 6 pm
+              Tuesday: 10am - 6pm
             </a>
             </div>
 
@@ -74,7 +80,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Wednesday : 10 am - 6 pm
+              Wednesday: 10am - 6pm
             </a>
             </div>
 
@@ -84,7 +90,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Thursday : 10 am - 6 pm
+              Thursday: 10am - 6pm
             </a>
             </div>
 
@@ -94,7 +100,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Friday : 10 am - 6 pm
+              Friday: 10am - 6pm
             </a>
             </div>
 
@@ -104,7 +110,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Saturday : 10 am - 6 pm
+              Saturday: 10am - 6pm
             </a>
             </div>
 
@@ -114,7 +120,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Sunday : 10 am - 6 pm
+              Sunday: 10am - 6pm
             </a>
             </div>
             
