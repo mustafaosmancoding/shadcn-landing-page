@@ -27,6 +27,15 @@ export const Footer = () => {
             >
               m.adde.osman@gmail.com
             </a>
+
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              +44 7553 971171
+            </a>
+
           </div>
 
         <div>
@@ -55,7 +64,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Tuesday : 6-8 pm
+              Tuesday : 10 am - 6 pm
             </a>
             </div>
 
@@ -65,7 +74,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Wednesday : 6-8 pm
+              Wednesday : 10 am - 6 pm
             </a>
             </div>
 
@@ -75,7 +84,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Thursday : 6-8 pm
+              Thursday : 10 am - 6 pm
             </a>
             </div>
 
@@ -85,7 +94,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Friday : 6-8 pm
+              Friday : 10 am - 6 pm
             </a>
             </div>
 
@@ -95,7 +104,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Saturday : 6-8 pm
+              Saturday : 10 am - 6 pm
             </a>
             </div>
 
@@ -105,7 +114,7 @@ export const Footer = () => {
               href="#"
               className="opacity-60 hover:opacity-100"
             >
-              Sunday : 6-8 pm
+              Sunday : 10 am - 6 pm
             </a>
             </div>
             
