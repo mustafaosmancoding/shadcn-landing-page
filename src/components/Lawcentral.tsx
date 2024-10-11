@@ -20,15 +20,21 @@ export const Lawcentral = () => {
                   Legal Cashier
                 </h2>
                 <p className="text-xl text-muted-foreground mt-4">
-                  - Producing SRA compliant three-way reconciliations on Excel using DPS - 
-                  Producing SRA three-way reconciliation for approval by senior partners - 
-                  Reconstructing and reconciling probate Filo ledgers based on SRA requests - 
-                  Conglomerating reconciliations between multiple LEAP in an SRA format - 
-                  Helping the firm to identify errors and correct for physical and cashbook corrections - 
-                  Recognising the limitations of LEAP when using for multiple entity purposes - 
-                  Producing reconciliations based on more than £3m in client accounts
+                  Producing SRA compliant three-way reconciliations on Excel using DPS
+                  
+                  
+                  
+                   
+                   
+                  
   
                 </p>
+                <p>- Producing SRA three-way reconciliation for approval by senior partners/ Directors.</p>
+                <p>- Reconstructing and reconciling probate Filo ledgers due to SRA requests. </p>
+                <p>- Conglomerating reconciliations between multiple LEAP in an SRA format. </p>
+                <p>- Helping the firm to identify errors and correct for physical and cashbook corrections.</p>
+                <p>- Recognising the limitations of LEAP when using for multiple entity purposes.</p>
+                <p>- Producing reconciliations based on more than £3m in client accounts.</p>
               </div>
   
               

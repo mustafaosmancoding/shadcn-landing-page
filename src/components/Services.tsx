@@ -9,19 +9,19 @@ const serviceList: ServiceProps[] = [
   {
     title: "Taxation",
     description:
-      "- self employed tax - VAT - corporation tax - NI - personal tax - chargeable gains tax - tax avoidance schemes - tax on dividends.",
+      "- Self Employed Tax - VAT - Corporation Tax - NI - Personal Tax/ Director's - Chargeable Gains Tax - Tax Avoidance Schemes - Tax On Dividends.",
     
   },
   {
     title: "Financial Accounting",
     description:
-      "- bookkeeping - trial balance - profit & loss - balance sheet - cashflow.",
+      "- Bookkeeping - Trial Balance - Profit & Loss - Balance Sheet - Cashflow.",
     
   },
   {
-    title: "Econometrics",
+    title: "Econometrics & Statistics",
     description:
-      "Constructing econometric models to determine the signficance of specific variables.",
+      "Using econometric models and statistics to determine the probability of outcomes.",
     
   },
 ];

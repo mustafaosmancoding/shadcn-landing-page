@@ -22,7 +22,7 @@ export const Hero = () => {
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
           Know and understrand how to run your books for your business. It will be the 
-          most important thing you do for your business. At £500.00 per month outsource an experienced bookkeeper to complete (non exhaustive)
+          most important thing you do for your business. At £499.00 per month outsource an experienced bookkeeper to complete (non exhaustive)
         </p>
 
         <p>Purchase ledger/ Sales ledger.</p>

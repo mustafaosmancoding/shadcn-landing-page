@@ -20,21 +20,22 @@ export const KBM = () => {
                   Accounts Assistant
                 </h2>
                 <p className="text-xl text-muted-foreground mt-4">
-                  - Reviewing and following-up of aged debtors & receipts
-                  - Bank reconciliations & credit credit card reconciliations 
-                  - Monthly reporting; P&L, balance sheet - 
-                  VAT flat rate scheme - 
-                  VAT second-hand margin scheme - 
-                  VAT cash scheme - 
-                  Payroll; monthly pay slips p45 and p46 - 
-                  Reconciliation of control accounts (debtors, creditors, VAT, PAYE, wage
-                    control account, month end reconciliations and balance sheet reconciliations) - 
-                    Accruals and prepayments - 
-                    Cash flow forecasting - 
-                    Director’s loan account - 
-                    Trial balance - Financial analysis
-  
+                  Reviewing and following-up of aged debtors & receipts
                 </p>
+
+                <p>- Bank reconciliations & credit credit card reconciliations.</p>
+                <p>- Monthly reporting; P&L, balance sheet.</p>
+                <p>- VAT flat rate scheme.</p>
+                <p>- VAT second-hand margin scheme.</p>
+                <p>- VAT cash scheme.</p>
+                <p>- Payroll; monthly pay slips p45 and p46.</p>
+                <p>- Reconciliation of control accounts (debtors, creditors, VAT, PAYE, wage
+                     control account, month end reconciliations and balance sheet reconciliations)</p>
+                <p>- Accruals and prepayments.</p>
+                <p>- Cash flow forecasting.</p>
+                <p>- Director’s loan account.</p>
+                <p>- Trial balance.</p>
+                <p>- Financial analysis.</p>
               </div>
   
               

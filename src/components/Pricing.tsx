@@ -31,23 +31,23 @@ const pricingList: PricingProps[] = [
     price: 0.00,
     description:
       "20 minute free consultation.",
-    buttonText: "m.adde.osman@gmail.com",
+    buttonText: "+44 7553 971171",
     benefitList: [
       "20 minute free consultaion",
     ],
   },
   {
-    title: "Office account reconciliation and clean up",
+    title: "Office account bookkeeping and clean up",
     popular: 1,
     price: 499.00,
     description:
-      "£250.00 retainer / to bring the office account reconciliation upto date",
-    buttonText: "m.adde.osman@gmail.com",
+      "£250.00 retainer / to bring the office account bookkeeping upto date",
+    buttonText: "+44 7553 971171",
     benefitList: [
-      "Extend to 1 Year worth of reconciliations",
+      "Extend to 1 Year worth of bookkeeping",
       "Discussion of the reconciliation process and what can be done to improve it",
-      "A system developments for consistant interval reconciliations",
-      "Training to staff to continue reconciliations",
+      "A system developments and creation of nominal codes",
+      "Training of staff if required",
     ],
   },
   {
@@ -56,7 +56,7 @@ const pricingList: PricingProps[] = [
     price: 999.00,
     description:
       "500.00 retainer / To bring the client account reconciliation up to date.",
-    buttonText: "m.adde.osman@gmail.com",
+    buttonText: "+44 7553 971171",
     benefitList: [
       "Extend to 1 Year worth of reconciliations",
       "Discussion of the reconciliation process and what can be done to improve it",
@@ -81,7 +81,7 @@ export const Pricing = () => {
         
       </h2>
       <h3 className="text-xl text-center text-muted-foreground pt-4 pb-8">
-        Email me at m.adde.osman@gmail.com to set a more tailored package over a video call
+        Want to have a quick discussion? Contact me on +44 7553 971171
       </h3>
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
         {pricingList.map((pricing: PricingProps) => (

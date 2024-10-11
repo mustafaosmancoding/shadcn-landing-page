@@ -20,13 +20,13 @@ export const Ajlo = () => {
                   Legal Cashier
                 </h2>
                 <p className="text-xl text-muted-foreground mt-4">
-                  - Helping the firm migrate to LEAP CMS and Xero - 
-                  Advising on how to set up cards and payment types; CHAPS - 
-                  Advising how to carry out reconciliations between LEAP and Xero - 
-                  Advising on how to use Excel in comparison to manual entries - 
-                  Advising on how to set up new conveyancing matters to the CCT
-  
+                  Helping the firm migrate to LEAP CMS and Xero.
                 </p>
+                <p>- Advising on how to set up cards and payment types; CHAPS.</p>
+                <p>- Advising how to carry out reconciliations between LEAP and Xero.</p>
+                <p>- Advising on how to use Excel in comparison to manual entries.</p>
+                <p>- Advising on how to set up new conveyancing matters to the CCT.</p>
+
               </div>
   
               

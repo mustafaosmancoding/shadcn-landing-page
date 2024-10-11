@@ -13,33 +13,33 @@ interface FAQProps {
 
 const FAQList: FAQProps[] = [
   {
-    question: "What is a bank reconciliation?",
-    answer: "A bank reconciliation is a method that involves matching internal records such as cash books with external records such as bank statements.",
+    question: "What is the difference between bookkeeping and accounting?",
+    answer: "Bookkeeping involves the daily recording of financial transactions, including sales, expenses, and payroll. Accounting, on the other hand, interprets and analyzes the financial data compiled by bookkeepers to provide insights and prepare financial statements, tax returns, and financial strategies. Bookkeeping is the foundation, while accounting is more focused on analysis and reporting.",
     value: "item-1",
   },
   {
-    question: "Can bank reconciliations spot errors in accounting transactions?",
+    question: "Why should I outsource my bookkeeping?",
     answer:
-      "Yes. Bank reconciliations can spot errors to do with mis postings on cashbooks as well as any extra monies paid or recieved.",
+      "Outsourcing your bookkeeping can save you time, reduce stress, and ensure accuracy in your financial records. It allows you to focus on running your business while experts manage your finances. Additionally, outsourcing often reduces costs compared to hiring an in-house bookkeeper and ensures you stay compliant with UK tax regulations.",
     value: "item-2",
   },
   {
     question:
-      "What is a client account (three-way) reconciliation?",
+      "What bookkeeping services do you offer?",
     answer:
-      "A client account reconciliation is the reconciliation between the cashbook, matter/ledger balance and bank statements related to the client account.",
+      "My services include: Recording transactions (sales, purchases, receipts and payments) - Bank reconciliations - Payroll processing - Financial reporting and statements - Budgeting and cashflow forecasting - Tailored packages" ,
     value: "item-3",
   },
   {
-    question: "What type of reconciliation do the SRA require?",
-    answer: "The SRA require three-way reconciliations at monthly intervals. As per the SRA Accounts Rules.",
+    question: "How often should my books be updated?",
+    answer: "For most businesses, it’s recommended to update your books at least monthly. However, depending on your business size and transaction volume, weekly or even daily updates may be more appropriate. Regular updates ensure you have a clear understanding of your cash flow and financial health at all times.",
     value: "item-4",
   },
   {
     question:
-      "What is the difference between an office reconcilaition and a client reconciliation?",
+      "How secure is my financial data with your bookkeeping service?",
     answer:
-      "The main difference between an office reconciliation and a client reconciliation is that a client reconciliation accounts for balances carried forward from client ledgers.",
+      "Security and confidentiality of financial informatino is a top priority. Only authorised personnel will have access to your data. ",
     value: "item-5",
   },
 ];
@@ -83,7 +83,7 @@ export const FAQ = () => {
           href="#"
           className="text-primary transition-all border-primary hover:border-b-2"
         >
-          Contact us
+          Contact 
         </a>
       </h3>
     </section>
