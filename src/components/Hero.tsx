@@ -16,14 +16,26 @@ export const Hero = () => {
             <span className="inline bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text">
               client
             </span>{" "}
-            bank reconciliations
+            bookkeeping service
           </h2>
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
           Know and understrand how to run your books for your business. It will be the 
-          most important thing you do for your business.
+          most important thing you do for your business. At £500.00 per month outsource an experienced bookkeeper to complete (non exhaustive)
         </p>
+
+        <p>Purchase ledger/ Sales ledger.</p>
+        <p>Bank Reonciliation.</p>
+        <p>VAT Return.</p>
+        <p>DebtorsControl.</p>
+        <p>Payroll Processing.</p>
+        <p>Profit & Loss.</p>
+        <p>Balance Sheet.</p>
+        <p>Cash Flow.</p>
+        <p>Cash Flow Forecast.</p>
+        <p>Consultation and Support.</p>
+        
 
         
       </div>

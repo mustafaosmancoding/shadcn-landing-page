@@ -8,7 +8,11 @@ interface SponsorProps {
 const sponsors: SponsorProps[] = [
   {
     icon: <Radar size={34} />,
-    name: "LEAP",
+    name: "Sage50",
+  },
+  {
+    icon: <Radar size={34} />,
+    name: "Sage50 Payroll",
   },
   {
     icon: <Radar size={34} />,
@@ -16,19 +20,15 @@ const sponsors: SponsorProps[] = [
   },
   {
     icon: <Radar size={34} />,
+    name: "Excel",
+  },
+  {
+    icon: <Radar size={34} />,
     name: "Quickbooks",
   },
   {
     icon: <Radar size={34} />,
-    name: "Sage50",
-  },
-  {
-    icon: <Radar size={34} />,
-    name: "DPS",
-  },
-  {
-    icon: <Radar size={34} />,
-    name: "Excel",
+    name: "LEAP",
   },
 ];
 
@@ -39,7 +39,7 @@ export const Sponsors = () => {
       className="container pt-24 sm:py-32"
     >
       <h2 className="text-center text-md lg:text-xl font-bold mb-8 text-primary">
-        Software I have experience with
+        Software I am certified and have experience with
       </h2>
 
       <div className="flex flex-wrap justify-center items-center gap-4 md:gap-8">
