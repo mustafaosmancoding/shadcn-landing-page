@@ -7,7 +7,7 @@ export const About = () => {
       <div className="bg-muted/50 border rounded-lg py-12">
         <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
           <img
-            src="src/assets/IMG_2339.jpg"
+            src="https://raw.githubusercontent.com/mustafaosmancoding/shadcn-landing-page/refs/heads/main/src/assets/IMG_2339.jpg"
             alt=""
             className="w-[300px] object-contain rounded-lg"
           />
