@@ -13,7 +13,7 @@ export const Footer = () => {
             className="font-bold text-xl flex"
           >
             <LogoIcon />
-            Bank Reconciliation
+            Bookkeeping Serivce
           </a>
         </div>
 
@@ -38,6 +38,19 @@ export const Footer = () => {
               className="opacity-60 hover:opacity-100"
             >
               +44 7553 971171
+            </a>
+
+            
+
+          </div>
+
+          <div>
+            <a
+              rel="noreferrer noopener"
+              href="#"
+              className="opacity-60 hover:opacity-100"
+            >
+              Based in London
             </a>
 
             
@@ -114,7 +127,7 @@ export const Footer = () => {
 
       <section className="container pb-14 text-center">
         <h3>
-          &copy; 2024 Bank Reconciliation{" "}
+          &copy; 2024 Bookkeeping Service{" "}
         </h3>
       </section>
     </footer>

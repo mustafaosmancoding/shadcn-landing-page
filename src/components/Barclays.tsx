@@ -7,7 +7,7 @@ export const Barclays = () => {
         <div className="bg-muted/50 border rounded-lg py-12">
           <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
             <img
-              src="https://therockbury.com/wp-content/uploads/2014/03/barclays-logo.jpg"
+              src="https://www.leaprate.com/wp-content/uploads/2024/02/Barclays-office-building.jpg"
               alt=""
               className="w-[300px] object-contain rounded-lg"
             />
@@ -20,15 +20,16 @@ export const Barclays = () => {
                   Cashier
                 </h2>
                 <p className="text-xl text-muted-foreground mt-4">
-                  - Processing payments and withdrawals on tills - 
-                  Authorising and evaluating overdraft and loans - 
-                  Dealing with customer enquiries - 
-                  Promotion of products and services - 
-                  Financial advice on savings and ISA - 
-                  Mystery shopping - 
-                  Leading money matter sessions
-  
+                  Processing payments and withdrawals on tills
                 </p>
+
+                <p>- Authorising and evaluating overdraft and loans.</p>
+                <p>- Dealing with customer enquiries.</p>
+                <p>- Promotion of products and services.</p>
+                <p>- Financial advice on savings and ISA.</p>
+                <p>- Mystery shopping.</p>
+                <p>- Leading money matter sessions.</p>
+
               </div>
   
               

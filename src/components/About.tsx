@@ -7,7 +7,7 @@ export const About = () => {
       <div className="bg-muted/50 border rounded-lg py-12">
         <div className="px-6 flex flex-col-reverse md:flex-row gap-8 md:gap-12">
           <img
-            src="src/assets/IMG_2333.jpg"
+            src="src/assets/IMG_2339.jpg"
             alt=""
             className="w-[300px] object-contain rounded-lg"
           />
@@ -17,7 +17,7 @@ export const About = () => {
                 <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
                   About{" "}
                 </span>
-                Bank Reconciliation
+                Bookkeeping Service
               </h2>
               <p className="text-xl text-muted-foreground mt-4">
                 It is a real pain when I see accounting software not being applied correctly by bookkeepers
