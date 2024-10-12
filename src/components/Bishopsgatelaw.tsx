@@ -21,8 +21,8 @@ export const Bishopsgatelaw = () => {
                 </h2>
                 <p className="text-xl text-muted-foreground mt-4">
                   Use of LEAP CMS and Xero.</p>
-                <p>- Resolving queries both internally.</p>
-                <p>- Payments requests payment approvals via BACS, FP, CHAPS, SWIFT.</p>
+                <p>- Resolving queries both internally and externally.</p>
+                <p>- Payments requests and payment approvals via BACS, FP, CHAPS, SWIFT.</p>
                 <p>- Monitoring and updating a live Excel spreadsheet.</p>
                 <p>- Consistently made payments in the millions of pounds quickly, and accurately.</p>
                 <p>- Assisted in auditing the bank reconciliation from 2 years back.</p>

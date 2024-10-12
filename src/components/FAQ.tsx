@@ -20,7 +20,7 @@ const FAQList: FAQProps[] = [
   {
     question: "Why should I outsource my bookkeeping?",
     answer:
-      "Outsourcing your bookkeeping can save you time, reduce stress, and ensure accuracy in your financial records. It allows you to focus on running your business while experts manage your finances. Additionally, outsourcing often reduces costs compared to hiring an in-house bookkeeper and ensures you stay compliant with UK tax regulations.",
+      "Outsourcing your bookkeeping can save you time, reduce stress, and ensure accuracy in your financial records. It allows you to focus on running your business while experts manage your finances. Additionally, outsourcing often reduces costs compared to hiring an in-house bookkeeper and ensures you stay compliant with UK tax laws regulations.",
     value: "item-2",
   },
   {

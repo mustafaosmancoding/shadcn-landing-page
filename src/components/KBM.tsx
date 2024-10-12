@@ -23,7 +23,7 @@ export const KBM = () => {
                   Reviewing and following-up of aged debtors & receipts
                 </p>
 
-                <p>- Bank reconciliations & credit credit card reconciliations.</p>
+                <p>- Bank reconciliations and credit credit card reconciliations.</p>
                 <p>- Monthly reporting; P&L, balance sheet.</p>
                 <p>- VAT flat rate scheme.</p>
                 <p>- VAT second-hand margin scheme.</p>

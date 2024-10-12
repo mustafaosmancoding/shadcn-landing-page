@@ -21,14 +21,14 @@ export const Hero = () => {
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-          Know and understrand how to run your books for your business. It will be the 
+          Know and understand how to run your books for your business. It will be the 
           most important thing you do for your business. At £499.00 per month outsource an experienced bookkeeper to complete (non exhaustive)
         </p>
 
         <p>Purchase ledger/ Sales ledger.</p>
         <p>Bank Reonciliation.</p>
         <p>VAT Return.</p>
-        <p>DebtorsControl.</p>
+        <p>Debtors Control.</p>
         <p>Payroll Processing.</p>
         <p>Profit & Loss.</p>
         <p>Balance Sheet.</p>
