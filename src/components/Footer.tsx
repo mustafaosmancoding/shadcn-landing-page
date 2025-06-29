@@ -127,7 +127,7 @@ export const Footer = () => {
 
       <section className="container pb-14 text-center">
         <h3>
-          &copy; 2024 Bookkeeping Service{" "}
+          &copy; 2025 Bookkeeping Service{" "}
         </h3>
       </section>
     </footer>
